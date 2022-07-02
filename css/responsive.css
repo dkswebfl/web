@@ -3530,7 +3530,7 @@
     background: #131313;
 }
 .main-menu .navbar-header .navbar-toggle .icon-bar {
-    background: #fec727;
+    background: #990f1b;
     height: 2px;
     width: 29px;
     display: block;
@@ -3596,7 +3596,7 @@
 .main-menu .navbar-collapse>.navigation>li>ul>li>ul>li:hover>a,
 .main-menu .navbar-collapse>.navigation>li.current>a,
 .main-menu .navbar-collapse>.navigation>li.current-menu-item>a {
-    color: #fec727 !important;
+    color: #990f1b !important;
 }    
 .main-menu .navbar-collapse>.navigation>li>ul,
 .main-menu .navbar-collapse>.navigation>li>ul>li>ul {
