@@ -236,7 +236,7 @@ li{
 }
 .btn-three:hover{
     color: #f7f7f7;
-    background: #d35908;
+    background: #990f1b;
 }
 
 
@@ -260,7 +260,7 @@ li{
     position: relative;
     display: inline-block;
     padding: 0 55px;
-    background: #131313;
+    background: #990f1b;
     color: #ffffff;
     font-size: 16px;
     line-height: 60px;
@@ -271,8 +271,8 @@ li{
     transition-delay: 0.1s;
 }
 .slide-btn-one:hover{
-    color: #131313;
-    background: #e7b218;
+    color: #ffffff;
+    background: #131313;
 }
 
 
