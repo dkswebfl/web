@@ -4267,13 +4267,14 @@ select:focus {
 
 .single-pricing-box{
     position: relative;
+		align: left;
     display: block;
     max-width: 370px;
     width: 100%;
     margin: 0 auto;
-    margin-top: 50px;
+		margin-top: 50px;
     padding: 20px;
-    background: #990f1b;
+    background: #131313;
     z-index: 1;
 }
 .single-pricing-box:before{
@@ -4281,7 +4282,7 @@ select:focus {
     left: 0;
     bottom: 0;
     right: 0;
-    height: 110px;
+    height: 90px;
     background: url(../images/pattern/single-pricing-box-bg.png);
     background-repeat: no-repeat;
     content: "";
@@ -4291,10 +4292,10 @@ select:focus {
     position: relative;
     display: block;
     padding: 35px 0 40px;
-    border: 2px dashed #131313;
+    border: 2px dashed #ffffff;
 }
 .single-pricing-box span:before{
-    color: #FFDB58;
+    color: #990f1b;
     font-size: 60px;
     line-height: 60px;
 }
@@ -4303,7 +4304,7 @@ select:focus {
     margin: 14px 0 17px;
 }
 .single-pricing-box h1{
-    color: #FFDB58;
+    color: #990f1b;
     font-size: 40px;
     line-height: 40px;
     text-transform: uppercase;
