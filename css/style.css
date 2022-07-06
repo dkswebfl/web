@@ -4294,22 +4294,22 @@ select:focus {
     border: 2px dashed #131313;
 }
 .single-pricing-box span:before{
-    color: #131313;
+    color: #FFDB58;
     font-size: 60px;
     line-height: 60px;
 }
 .single-pricing-box h3{
-    color: #131313;
+    color: #ffffff;
     margin: 14px 0 17px;
 }
 .single-pricing-box h1{
-    color: #131313;
+    color: #FFDB58;
     font-size: 40px;
     line-height: 40px;
     text-transform: uppercase;
 }
 .single-pricing-box p{
-    color: #131313;
+    color: #ffffff;
     line-height: 26px;
     margin: 7px 0 32px;
 }
